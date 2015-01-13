@@ -21,7 +21,7 @@
     <object>objects\Block_Object</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\Test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
