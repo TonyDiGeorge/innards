@@ -8,7 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\Guy_Throwup</sprite>
     <sprite>sprites\Guy</sprite>
-    <sprite>sprites\Placeholder_Block</sprite>
+    <sprite>sprites\Black_Block_Sprite</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -21,7 +21,7 @@
     <object>objects\Block_Object</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Test</room>
+    <room>rooms\Test_Jump_Room</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
