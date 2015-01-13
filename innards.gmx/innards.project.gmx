@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\Guy_Throwup</sprite>
     <sprite>sprites\Guy</sprite>
+    <sprite>sprites\Placeholder_Block</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
