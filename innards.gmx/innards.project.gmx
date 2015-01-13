@@ -9,19 +9,25 @@
     <sprite>sprites\Guy_Throwup</sprite>
     <sprite>sprites\Guy</sprite>
     <sprite>sprites\Black_Block_Sprite</sprite>
+    <sprite>sprites\Cursur</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\Title</font>
+  </fonts>
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\Player_object</object>
     <object>objects\Block_Object</object>
+    <object>objects\Menu_Object</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Test_Jump_Room</room>
+    <room>rooms\Title_Room</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
