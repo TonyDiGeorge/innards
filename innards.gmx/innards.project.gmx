@@ -19,23 +19,10 @@
     <background>background\background0</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\scr_menu.gml</script>
-  </scripts>
-  <fonts name="fonts">
-    <font>fonts\Title_Font</font>
-  </fonts>
-  <objects name="objects">
-    <object>objects\object0</object>
-    <object>objects\Player_object</object>
-    <object>objects\Block_Object</object>
-    <object>objects\Menu_Object</object>
-    <object>objects\Create_Main_Menu_Song</object>
-  </objects>
-  <rooms name="rooms">
-    <room>rooms\Title_Room</room>
-    <room>rooms\Test_Jump_Room</room>
-  </rooms>
+  <scripts name="scripts"/>
+  <fonts name="fonts"/>
+  <objects name="objects"/>
+  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>

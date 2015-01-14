@@ -51,11 +51,15 @@
   </views>
   <instances>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <instance objName="Menu_Object" x="32" y="64" name="inst_A458AC6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Create_Main_Menu_Song" x="-32" y="352" name="inst_400A12C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
 =======
     <instance objName="Menu_Object" x="0" y="192" name="inst_26B6731E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
 >>>>>>> origin/sfdg
+=======
+    <instance objName="Menu_Object" x="32" y="64" name="inst_A458AC6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+>>>>>>> parent of b9ebc48... Tutorial Room Prototype
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
