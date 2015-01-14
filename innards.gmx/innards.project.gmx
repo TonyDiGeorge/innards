@@ -31,7 +31,6 @@
     <object>objects\Pause_Object</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Title_Room</room>
     <room>rooms\Test_Jump_Room</room>
   </rooms>
   <help>
