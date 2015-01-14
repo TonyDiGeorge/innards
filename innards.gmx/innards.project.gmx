@@ -14,10 +14,10 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\script0.gml</script>
+    <script>scripts\scr_menu.gml</script>
   </scripts>
   <fonts name="fonts">
-    <font>fonts\Title</font>
+    <font>fonts\Title_Font</font>
   </fonts>
   <objects name="objects">
     <object>objects\object0</object>
@@ -26,8 +26,8 @@
     <object>objects\Menu_Object</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Test_Jump_Room</room>
     <room>rooms\Title_Room</room>
+    <room>rooms\Test_Jump_Room</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
