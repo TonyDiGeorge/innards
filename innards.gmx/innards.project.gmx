@@ -28,6 +28,7 @@
     <object>objects\Player_object</object>
     <object>objects\Block_Object</object>
     <object>objects\Menu_Object</object>
+    <object>objects\Pause_Object</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Title_Room</room>
