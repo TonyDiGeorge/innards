@@ -10,8 +10,12 @@
     <sprite>sprites\Guy</sprite>
     <sprite>sprites\Black_Block_Sprite</sprite>
     <sprite>sprites\Cursur</sprite>
+    <sprite>sprites\Main_Menu_part2</sprite>
+    <sprite>sprites\Main_Menu_part1</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
