@@ -17,6 +17,12 @@
     <background>background\background0</background>
   </backgrounds>
   <paths name="paths"/>
+<<<<<<< HEAD
+  <scripts name="scripts"/>
+  <fonts name="fonts"/>
+  <objects name="objects"/>
+  <rooms name="rooms"/>
+=======
   <scripts name="scripts">
     <script>scripts\scr_menu.gml</script>
   </scripts>
@@ -34,6 +40,7 @@
     <room>rooms\Title_Room</room>
     <room>rooms\Test_Jump_Room</room>
   </rooms>
+>>>>>>> origin/sfdg
   <help>
     <rtf>help.rtf</rtf>
   </help>
